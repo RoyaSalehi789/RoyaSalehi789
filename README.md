@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roya-salehi-878925253/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-EF1ABD?logo=instagram&logoColor=white&link=https://instagram.com/roya_slh_/)](https://www.instagram.com/roya_slh_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-31C8FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/RoyaSlh)
-[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:royasalehi789@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-ED0E0E?style=flat&logo=Gmail&logoColor=white)](mailto:roya.salehi789@gmail.com)
 [![Github](https://img.shields.io/github/followers/nimiico?label=Follow&style=social)](https://github.com/RoyaSalehi789)
 
 - Computer Engineering student at the University of Isfahan
