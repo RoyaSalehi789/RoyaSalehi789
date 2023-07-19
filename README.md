@@ -16,7 +16,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Android_Studio-05122A?style=flat-square&logo=androidstudio&logoColor=white&color=2AC643)
 ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=html5&logoColor=white&color=E13232)
 ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3&color=155AFF)
-[![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white&color=F8EA0E)]
 ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=black&color=F8EA0E)
 ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java&logoColor=white&color=b64f14)
 
