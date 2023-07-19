@@ -18,3 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3&color=155AFF)
 ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white&color=F8EA0E)
 
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoyaSalehi789&show_icons=true&locale=en&layout=compact" alt="RoyaSalehi789" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RoyaSalehi789&" alt="RoyaSalehi789" />
+</div>
