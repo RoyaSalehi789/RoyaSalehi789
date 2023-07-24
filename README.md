@@ -24,7 +24,7 @@
  <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoyaSalehi789&show_icons=true&locale=en&layout=compact" alt="RoyaSalehi789" />
   <br></br>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RoyaSalehi789&" alt="RoyaSalehi789" />
+  <img width="50%"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyaSalehi789&" alt="RoyaSalehi789" />
 </div>
 </div>
 </div>
